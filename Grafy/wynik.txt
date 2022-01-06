@@ -1,0 +1,1000 @@
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 0	dystans: 0 	sciezka: 0 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 1	dystans: 2 	sciezka: 0 10 1 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 2	dystans: 2 	sciezka: 0 99 2 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 3	dystans: 2 	sciezka: 0 71 3 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 4	dystans: 2 	sciezka: 0 178 4 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 5	dystans: 2 	sciezka: 0 16 5 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 6	dystans: 2 	sciezka: 0 98 6 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 7	dystans: 2 	sciezka: 0 83 7 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 8	dystans: 2 	sciezka: 0 10 8 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 9	dystans: 2 	sciezka: 0 106 9 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 10	dystans: 1 	sciezka: 0 10 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 11	dystans: 2 	sciezka: 0 11 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 12	dystans: 2 	sciezka: 0 44 12 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 13	dystans: 2 	sciezka: 0 13 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 14	dystans: 2 	sciezka: 0 348 14 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 15	dystans: 2 	sciezka: 0 83 15 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 16	dystans: 1 	sciezka: 0 16 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 17	dystans: 2 	sciezka: 0 44 17 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 18	dystans: 2 	sciezka: 0 154 18 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 19	dystans: 2 	sciezka: 0 94 19 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 20	dystans: 2 	sciezka: 0 185 20 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 21	dystans: 2 	sciezka: 0 21 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 22	dystans: 2 	sciezka: 0 154 22 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 23	dystans: 2 	sciezka: 0 71 23 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 24	dystans: 2 	sciezka: 0 80 24 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 25	dystans: 2 	sciezka: 0 25 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 26	dystans: 2 	sciezka: 0 178 26 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 27	dystans: 2 	sciezka: 0 83 27 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 28	dystans: 2 	sciezka: 0 131 28 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 29	dystans: 2 	sciezka: 0 80 29 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 30	dystans: 2 	sciezka: 0 30 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 31	dystans: 2 	sciezka: 0 44 31 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 32	dystans: 2 	sciezka: 0 16 32 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 33	dystans: 2 	sciezka: 0 131 33 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 34	dystans: 2 	sciezka: 0 106 34 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 35	dystans: 2 	sciezka: 0 83 35 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 36	dystans: 2 	sciezka: 0 99 36 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 37	dystans: 2 	sciezka: 0 37 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 38	dystans: 2 	sciezka: 0 49 38 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 39	dystans: 2 	sciezka: 0 10 39 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 40	dystans: 2 	sciezka: 0 94 40 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 41	dystans: 2 	sciezka: 0 98 41 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 42	dystans: 2 	sciezka: 0 42 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 43	dystans: 2 	sciezka: 0 451 43 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 44	dystans: 1 	sciezka: 0 44 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 45	dystans: 2 	sciezka: 0 44 45 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 46	dystans: 2 	sciezka: 0 80 46 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 47	dystans: 2 	sciezka: 0 248 47 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 48	dystans: 2 	sciezka: 0 257 48 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 49	dystans: 1 	sciezka: 0 49 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 50	dystans: 2 	sciezka: 0 50 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 51	dystans: 2 	sciezka: 0 93 51 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 52	dystans: 2 	sciezka: 0 151 52 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 53	dystans: 2 	sciezka: 0 44 53 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 54	dystans: 2 	sciezka: 0 209 54 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 55	dystans: 2 	sciezka: 0 106 55 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 56	dystans: 2 	sciezka: 0 56 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 57	dystans: 2 	sciezka: 0 93 57 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 58	dystans: 2 	sciezka: 0 10 58 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 59	dystans: 2 	sciezka: 0 16 59 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 60	dystans: 2 	sciezka: 0 16 60 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 61	dystans: 2 	sciezka: 0 94 61 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 62	dystans: 2 	sciezka: 0 44 62 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 63	dystans: 2 	sciezka: 0 10 63 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 64	dystans: 2 	sciezka: 0 93 64 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 65	dystans: 2 	sciezka: 0 99 65 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 66	dystans: 2 	sciezka: 0 98 66 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 67	dystans: 2 	sciezka: 0 49 67 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 68	dystans: 2 	sciezka: 0 68 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 69	dystans: 2 	sciezka: 0 83 69 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 70	dystans: 2 	sciezka: 0 131 70 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 71	dystans: 1 	sciezka: 0 71 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 72	dystans: 2 	sciezka: 0 104 72 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 73	dystans: 2 	sciezka: 0 10 73 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 74	dystans: 2 	sciezka: 0 44 74 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 75	dystans: 2 	sciezka: 0 10 75 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 76	dystans: 2 	sciezka: 0 16 76 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 77	dystans: 2 	sciezka: 0 93 77 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 78	dystans: 2 	sciezka: 0 49 78 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 79	dystans: 2 	sciezka: 0 10 79 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 80	dystans: 1 	sciezka: 0 80 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 81	dystans: 2 	sciezka: 0 99 81 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 82	dystans: 2 	sciezka: 0 83 82 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 83	dystans: 1 	sciezka: 0 83 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 84	dystans: 2 	sciezka: 0 49 84 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 85	dystans: 2 	sciezka: 0 85 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 86	dystans: 2 	sciezka: 0 86 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 87	dystans: 2 	sciezka: 0 94 87 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 88	dystans: 2 	sciezka: 0 88 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 89	dystans: 2 	sciezka: 0 98 89 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 90	dystans: 2 	sciezka: 0 16 90 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 91	dystans: 2 	sciezka: 0 151 91 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 92	dystans: 2 	sciezka: 0 98 92 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 93	dystans: 1 	sciezka: 0 93 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 94	dystans: 1 	sciezka: 0 94 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 95	dystans: 2 	sciezka: 0 49 95 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 96	dystans: 2 	sciezka: 0 93 96 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 97	dystans: 2 	sciezka: 0 16 97 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 98	dystans: 1 	sciezka: 0 98 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 99	dystans: 1 	sciezka: 0 99 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 100	dystans: 2 	sciezka: 0 71 100 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 101	dystans: 2 	sciezka: 0 151 101 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 102	dystans: 2 	sciezka: 0 80 102 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 103	dystans: 2 	sciezka: 0 10 103 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 104	dystans: 1 	sciezka: 0 104 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 105	dystans: 2 	sciezka: 0 71 105 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 106	dystans: 1 	sciezka: 0 106 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 107	dystans: 2 	sciezka: 0 258 107 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 108	dystans: 2 	sciezka: 0 106 108 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 109	dystans: 2 	sciezka: 0 109 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 110	dystans: 2 	sciezka: 0 10 110 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 111	dystans: 2 	sciezka: 0 104 111 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 112	dystans: 2 	sciezka: 0 44 112 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 113	dystans: 2 	sciezka: 0 292 113 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 114	dystans: 2 	sciezka: 0 178 114 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 115	dystans: 2 	sciezka: 0 80 115 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 116	dystans: 2 	sciezka: 0 94 116 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 117	dystans: 2 	sciezka: 0 44 117 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 118	dystans: 2 	sciezka: 0 292 118 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 119	dystans: 2 	sciezka: 0 119 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 120	dystans: 2 	sciezka: 0 154 120 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 121	dystans: 2 	sciezka: 0 131 121 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 122	dystans: 2 	sciezka: 0 49 122 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 123	dystans: 2 	sciezka: 0 16 123 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 124	dystans: 2 	sciezka: 0 10 124 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 125	dystans: 2 	sciezka: 0 125 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 126	dystans: 2 	sciezka: 0 490 126 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 127	dystans: 2 	sciezka: 0 104 127 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 128	dystans: 2 	sciezka: 0 10 128 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 129	dystans: 2 	sciezka: 0 129 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 130	dystans: 2 	sciezka: 0 104 130 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 131	dystans: 1 	sciezka: 0 131 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 132	dystans: 2 	sciezka: 0 154 132 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 133	dystans: 2 	sciezka: 0 93 133 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 134	dystans: 2 	sciezka: 0 209 134 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 135	dystans: 2 	sciezka: 0 49 135 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 136	dystans: 2 	sciezka: 0 16 136 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 137	dystans: 2 	sciezka: 0 71 137 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 138	dystans: 2 	sciezka: 0 138 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 139	dystans: 2 	sciezka: 0 263 139 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 140	dystans: 2 	sciezka: 0 174 140 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 141	dystans: 2 	sciezka: 0 16 141 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 142	dystans: 1 	sciezka: 0 142 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 143	dystans: 2 	sciezka: 0 10 143 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 144	dystans: 2 	sciezka: 0 83 144 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 145	dystans: 2 	sciezka: 0 154 145 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 146	dystans: 2 	sciezka: 0 49 146 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 147	dystans: 2 	sciezka: 0 291 147 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 148	dystans: 2 	sciezka: 0 71 148 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 149	dystans: 2 	sciezka: 0 291 149 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 150	dystans: 2 	sciezka: 0 44 150 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 151	dystans: 1 	sciezka: 0 151 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 152	dystans: 2 	sciezka: 0 83 152 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 153	dystans: 2 	sciezka: 0 263 153 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 154	dystans: 1 	sciezka: 0 154 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 155	dystans: 2 	sciezka: 0 155 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 156	dystans: 2 	sciezka: 0 142 156 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 157	dystans: 2 	sciezka: 0 157 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 158	dystans: 2 	sciezka: 0 16 158 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 159	dystans: 2 	sciezka: 0 93 159 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 160	dystans: 2 	sciezka: 0 380 160 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 161	dystans: 2 	sciezka: 0 99 161 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 162	dystans: 2 	sciezka: 0 10 162 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 163	dystans: 2 	sciezka: 0 83 163 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 164	dystans: 2 	sciezka: 0 151 164 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 165	dystans: 2 	sciezka: 0 174 165 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 166	dystans: 2 	sciezka: 0 166 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 167	dystans: 2 	sciezka: 0 10 167 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 168	dystans: 2 	sciezka: 0 83 168 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 169	dystans: 2 	sciezka: 0 71 169 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 170	dystans: 2 	sciezka: 0 44 170 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 171	dystans: 2 	sciezka: 0 98 171 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 172	dystans: 2 	sciezka: 0 10 172 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 173	dystans: 2 	sciezka: 0 142 173 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 174	dystans: 1 	sciezka: 0 174 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 175	dystans: 2 	sciezka: 0 106 175 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 176	dystans: 2 	sciezka: 0 142 176 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 177	dystans: 2 	sciezka: 0 209 177 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 178	dystans: 1 	sciezka: 0 178 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 179	dystans: 2 	sciezka: 0 16 179 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 180	dystans: 2 	sciezka: 0 80 180 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 181	dystans: 2 	sciezka: 0 10 181 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 182	dystans: 2 	sciezka: 0 80 182 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 183	dystans: 2 	sciezka: 0 44 183 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 184	dystans: 2 	sciezka: 0 44 184 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 185	dystans: 1 	sciezka: 0 185 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 186	dystans: 2 	sciezka: 0 93 186 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 187	dystans: 2 	sciezka: 0 187 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 188	dystans: 2 	sciezka: 0 83 188 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 189	dystans: 2 	sciezka: 0 98 189 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 190	dystans: 2 	sciezka: 0 190 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 191	dystans: 2 	sciezka: 0 98 191 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 192	dystans: 2 	sciezka: 0 10 192 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 193	dystans: 2 	sciezka: 0 104 193 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 194	dystans: 2 	sciezka: 0 49 194 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 195	dystans: 2 	sciezka: 0 498 195 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 196	dystans: 2 	sciezka: 0 104 196 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 197	dystans: 2 	sciezka: 0 197 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 198	dystans: 2 	sciezka: 0 49 198 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 199	dystans: 2 	sciezka: 0 131 199 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 200	dystans: 2 	sciezka: 0 200 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 201	dystans: 2 	sciezka: 0 98 201 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 202	dystans: 2 	sciezka: 0 44 202 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 203	dystans: 2 	sciezka: 0 174 203 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 204	dystans: 2 	sciezka: 0 44 204 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 205	dystans: 2 	sciezka: 0 49 205 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 206	dystans: 2 	sciezka: 0 44 206 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 207	dystans: 2 	sciezka: 0 104 207 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 208	dystans: 2 	sciezka: 0 98 208 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 209	dystans: 1 	sciezka: 0 209 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 210	dystans: 2 	sciezka: 0 71 210 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 211	dystans: 2 	sciezka: 0 93 211 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 212	dystans: 2 	sciezka: 0 185 212 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 213	dystans: 2 	sciezka: 0 49 213 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 214	dystans: 2 	sciezka: 0 257 214 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 215	dystans: 2 	sciezka: 0 44 215 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 216	dystans: 2 	sciezka: 0 377 216 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 217	dystans: 2 	sciezka: 0 80 217 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 218	dystans: 2 	sciezka: 0 80 218 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 219	dystans: 2 	sciezka: 0 106 219 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 220	dystans: 2 	sciezka: 0 93 220 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 221	dystans: 2 	sciezka: 0 71 221 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 222	dystans: 2 	sciezka: 0 106 222 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 223	dystans: 2 	sciezka: 0 597 223 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 224	dystans: 2 	sciezka: 0 71 224 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 225	dystans: 2 	sciezka: 0 225 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 226	dystans: 2 	sciezka: 0 292 226 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 227	dystans: 2 	sciezka: 0 49 227 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 228	dystans: 2 	sciezka: 0 99 228 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 229	dystans: 2 	sciezka: 0 185 229 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 230	dystans: 2 	sciezka: 0 71 230 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 231	dystans: 2 	sciezka: 0 10 231 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 232	dystans: 2 	sciezka: 0 232 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 233	dystans: 2 	sciezka: 0 10 233 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 234	dystans: 2 	sciezka: 0 178 234 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 235	dystans: 2 	sciezka: 0 83 235 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 236	dystans: 1 	sciezka: 0 236 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 237	dystans: 2 	sciezka: 0 106 237 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 238	dystans: 2 	sciezka: 0 236 238 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 239	dystans: 2 	sciezka: 0 106 239 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 240	dystans: 2 	sciezka: 0 16 240 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 241	dystans: 2 	sciezka: 0 99 241 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 242	dystans: 2 	sciezka: 0 16 242 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 243	dystans: 2 	sciezka: 0 94 243 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 244	dystans: 2 	sciezka: 0 10 244 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 245	dystans: 2 	sciezka: 0 245 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 246	dystans: 2 	sciezka: 0 80 246 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 247	dystans: 2 	sciezka: 0 80 247 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 248	dystans: 1 	sciezka: 0 248 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 249	dystans: 2 	sciezka: 0 10 249 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 250	dystans: 2 	sciezka: 0 250 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 251	dystans: 2 	sciezka: 0 16 251 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 252	dystans: 2 	sciezka: 0 98 252 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 253	dystans: 2 	sciezka: 0 10 253 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 254	dystans: 2 	sciezka: 0 178 254 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 255	dystans: 2 	sciezka: 0 10 255 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 256	dystans: 2 	sciezka: 0 49 256 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 257	dystans: 1 	sciezka: 0 257 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 258	dystans: 1 	sciezka: 0 258 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 259	dystans: 2 	sciezka: 0 174 259 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 260	dystans: 2 	sciezka: 0 260 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 261	dystans: 2 	sciezka: 0 248 261 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 262	dystans: 2 	sciezka: 0 71 262 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 263	dystans: 1 	sciezka: 0 263 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 264	dystans: 2 	sciezka: 0 10 264 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 265	dystans: 2 	sciezka: 0 94 265 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 266	dystans: 2 	sciezka: 0 49 266 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 267	dystans: 2 	sciezka: 0 10 267 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 268	dystans: 2 	sciezka: 0 178 268 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 269	dystans: 2 	sciezka: 0 10 269 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 270	dystans: 2 	sciezka: 0 346 270 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 271	dystans: 2 	sciezka: 0 71 271 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 272	dystans: 2 	sciezka: 0 272 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 273	dystans: 2 	sciezka: 0 71 273 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 274	dystans: 2 	sciezka: 0 49 274 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 275	dystans: 2 	sciezka: 0 142 275 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 276	dystans: 2 	sciezka: 0 80 276 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 277	dystans: 2 	sciezka: 0 248 277 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 278	dystans: 2 	sciezka: 0 99 278 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 279	dystans: 2 	sciezka: 0 16 279 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 280	dystans: 2 	sciezka: 0 104 280 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 281	dystans: 2 	sciezka: 0 71 281 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 282	dystans: 2 	sciezka: 0 99 282 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 283	dystans: 2 	sciezka: 0 16 283 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 284	dystans: 2 	sciezka: 0 44 284 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 285	dystans: 2 	sciezka: 0 93 285 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 286	dystans: 2 	sciezka: 0 16 286 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 287	dystans: 1 	sciezka: 0 287 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 288	dystans: 2 	sciezka: 0 44 288 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 289	dystans: 2 	sciezka: 0 80 289 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 290	dystans: 2 	sciezka: 0 99 290 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 291	dystans: 1 	sciezka: 0 291 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 292	dystans: 1 	sciezka: 0 292 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 293	dystans: 2 	sciezka: 0 106 293 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 294	dystans: 2 	sciezka: 0 154 294 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 295	dystans: 2 	sciezka: 0 93 295 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 296	dystans: 2 	sciezka: 0 16 296 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 297	dystans: 2 	sciezka: 0 99 297 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 298	dystans: 2 	sciezka: 0 491 298 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 299	dystans: 2 	sciezka: 0 299 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 300	dystans: 2 	sciezka: 0 71 300 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 301	dystans: 2 	sciezka: 0 49 301 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 302	dystans: 2 	sciezka: 0 94 302 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 303	dystans: 2 	sciezka: 0 10 303 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 304	dystans: 2 	sciezka: 0 304 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 305	dystans: 2 	sciezka: 0 106 305 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 306	dystans: 2 	sciezka: 0 16 306 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 307	dystans: 2 	sciezka: 0 99 307 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 308	dystans: 2 	sciezka: 0 49 308 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 309	dystans: 2 	sciezka: 0 80 309 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 310	dystans: 2 	sciezka: 0 99 310 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 311	dystans: 2 	sciezka: 0 93 311 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 312	dystans: 2 	sciezka: 0 16 312 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 313	dystans: 2 	sciezka: 0 16 313 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 314	dystans: 2 	sciezka: 0 104 314 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 315	dystans: 2 	sciezka: 0 104 315 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 316	dystans: 2 	sciezka: 0 131 316 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 317	dystans: 2 	sciezka: 0 317 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 318	dystans: 2 	sciezka: 0 94 318 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 319	dystans: 2 	sciezka: 0 10 319 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 320	dystans: 2 	sciezka: 0 10 320 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 321	dystans: 2 	sciezka: 0 98 321 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 322	dystans: 2 	sciezka: 0 80 322 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 323	dystans: 2 	sciezka: 0 258 323 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 324	dystans: 2 	sciezka: 0 80 324 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 325	dystans: 2 	sciezka: 0 99 325 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 326	dystans: 2 	sciezka: 0 93 326 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 327	dystans: 2 	sciezka: 0 327 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 328	dystans: 2 	sciezka: 0 83 328 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 329	dystans: 2 	sciezka: 0 131 329 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 330	dystans: 2 	sciezka: 0 93 330 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 331	dystans: 2 	sciezka: 0 348 331 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 332	dystans: 2 	sciezka: 0 174 332 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 333	dystans: 1 	sciezka: 0 333 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 334	dystans: 2 	sciezka: 0 16 334 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 335	dystans: 2 	sciezka: 0 98 335 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 336	dystans: 2 	sciezka: 0 336 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 337	dystans: 2 	sciezka: 0 44 337 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 338	dystans: 2 	sciezka: 0 248 338 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 339	dystans: 2 	sciezka: 0 174 339 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 340	dystans: 2 	sciezka: 0 44 340 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 341	dystans: 2 	sciezka: 0 341 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 342	dystans: 2 	sciezka: 0 151 342 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 343	dystans: 2 	sciezka: 0 94 343 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 344	dystans: 2 	sciezka: 0 248 344 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 345	dystans: 2 	sciezka: 0 151 345 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 346	dystans: 1 	sciezka: 0 346 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 347	dystans: 2 	sciezka: 0 49 347 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 348	dystans: 1 	sciezka: 0 348 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 349	dystans: 2 	sciezka: 0 49 349 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 350	dystans: 2 	sciezka: 0 287 350 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 351	dystans: 2 	sciezka: 0 10 351 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 352	dystans: 2 	sciezka: 0 248 352 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 353	dystans: 2 	sciezka: 0 93 353 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 354	dystans: 2 	sciezka: 0 354 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 355	dystans: 2 	sciezka: 0 71 355 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 356	dystans: 2 	sciezka: 0 236 356 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 357	dystans: 1 	sciezka: 0 357 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 358	dystans: 2 	sciezka: 0 98 358 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 359	dystans: 2 	sciezka: 0 94 359 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 360	dystans: 2 	sciezka: 0 94 360 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 361	dystans: 2 	sciezka: 0 16 361 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 362	dystans: 2 	sciezka: 0 71 362 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 363	dystans: 2 	sciezka: 0 178 363 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 364	dystans: 2 	sciezka: 0 258 364 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 365	dystans: 2 	sciezka: 0 10 365 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 366	dystans: 2 	sciezka: 0 104 366 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 367	dystans: 2 	sciezka: 0 16 367 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 368	dystans: 2 	sciezka: 0 10 368 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 369	dystans: 2 	sciezka: 0 71 369 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 370	dystans: 2 	sciezka: 0 71 370 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 371	dystans: 2 	sciezka: 0 80 371 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 372	dystans: 2 	sciezka: 0 377 372 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 373	dystans: 2 	sciezka: 0 106 373 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 374	dystans: 2 	sciezka: 0 80 374 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 375	dystans: 2 	sciezka: 0 292 375 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 376	dystans: 2 	sciezka: 0 16 376 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 377	dystans: 1 	sciezka: 0 377 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 378	dystans: 2 	sciezka: 0 16 378 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 379	dystans: 2 	sciezka: 0 174 379 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 380	dystans: 1 	sciezka: 0 380 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 381	dystans: 1 	sciezka: 0 381 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 382	dystans: 2 	sciezka: 0 16 382 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 383	dystans: 2 	sciezka: 0 174 383 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 384	dystans: 2 	sciezka: 0 98 384 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 385	dystans: 2 	sciezka: 0 209 385 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 386	dystans: 2 	sciezka: 0 94 386 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 387	dystans: 2 	sciezka: 0 80 387 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 388	dystans: 2 	sciezka: 0 209 388 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 389	dystans: 2 	sciezka: 0 80 389 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 390	dystans: 2 	sciezka: 0 390 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 391	dystans: 2 	sciezka: 0 44 391 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 392	dystans: 2 	sciezka: 0 44 392 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 393	dystans: 2 	sciezka: 0 98 393 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 394	dystans: 1 	sciezka: 0 394 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 395	dystans: 2 	sciezka: 0 151 395 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 396	dystans: 2 	sciezka: 0 93 396 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 397	dystans: 2 	sciezka: 0 397 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 398	dystans: 2 	sciezka: 0 80 398 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 399	dystans: 2 	sciezka: 0 399 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 400	dystans: 1 	sciezka: 0 400 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 401	dystans: 2 	sciezka: 0 71 401 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 402	dystans: 2 	sciezka: 0 83 402 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 403	dystans: 2 	sciezka: 0 10 403 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 404	dystans: 2 	sciezka: 0 80 404 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 405	dystans: 2 	sciezka: 0 10 405 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 406	dystans: 1 	sciezka: 0 406 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 407	dystans: 2 	sciezka: 0 44 407 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 408	dystans: 2 	sciezka: 0 44 408 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 409	dystans: 2 	sciezka: 0 131 409 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 410	dystans: 2 	sciezka: 0 410 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 411	dystans: 2 	sciezka: 0 10 411 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 412	dystans: 2 	sciezka: 0 412 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 413	dystans: 2 	sciezka: 0 94 413 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 414	dystans: 2 	sciezka: 0 291 414 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 415	dystans: 2 	sciezka: 0 44 415 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 416	dystans: 1 	sciezka: 0 416 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 417	dystans: 2 	sciezka: 0 98 417 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 418	dystans: 2 	sciezka: 0 106 418 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 419	dystans: 2 	sciezka: 0 419 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 420	dystans: 2 	sciezka: 0 16 420 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 421	dystans: 2 	sciezka: 0 154 421 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 422	dystans: 2 	sciezka: 0 422 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 423	dystans: 2 	sciezka: 0 16 423 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 424	dystans: 2 	sciezka: 0 104 424 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 425	dystans: 2 	sciezka: 0 44 425 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 426	dystans: 1 	sciezka: 0 426 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 427	dystans: 2 	sciezka: 0 80 427 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 428	dystans: 2 	sciezka: 0 71 428 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 429	dystans: 2 	sciezka: 0 80 429 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 430	dystans: 2 	sciezka: 0 83 430 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 431	dystans: 2 	sciezka: 0 10 431 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 432	dystans: 2 	sciezka: 0 83 432 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 433	dystans: 2 	sciezka: 0 104 433 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 434	dystans: 2 	sciezka: 0 434 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 435	dystans: 2 	sciezka: 0 142 435 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 436	dystans: 2 	sciezka: 0 131 436 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 437	dystans: 2 	sciezka: 0 151 437 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 438	dystans: 2 	sciezka: 0 93 438 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 439	dystans: 2 	sciezka: 0 142 439 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 440	dystans: 2 	sciezka: 0 178 440 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 441	dystans: 2 	sciezka: 0 93 441 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 442	dystans: 2 	sciezka: 0 98 442 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 443	dystans: 2 	sciezka: 0 93 443 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 444	dystans: 2 	sciezka: 0 49 444 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 445	dystans: 2 	sciezka: 0 80 445 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 446	dystans: 2 	sciezka: 0 71 446 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 447	dystans: 2 	sciezka: 0 80 447 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 448	dystans: 1 	sciezka: 0 448 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 449	dystans: 2 	sciezka: 0 348 449 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 450	dystans: 2 	sciezka: 0 16 450 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 451	dystans: 1 	sciezka: 0 451 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 452	dystans: 2 	sciezka: 0 678 452 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 453	dystans: 2 	sciezka: 0 49 453 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 454	dystans: 2 	sciezka: 0 454 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 455	dystans: 2 	sciezka: 0 236 455 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 456	dystans: 2 	sciezka: 0 83 456 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 457	dystans: 2 	sciezka: 0 49 457 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 458	dystans: 2 	sciezka: 0 236 458 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 459	dystans: 2 	sciezka: 0 80 459 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 460	dystans: 1 	sciezka: 0 460 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 461	dystans: 2 	sciezka: 0 49 461 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 462	dystans: 2 	sciezka: 0 44 462 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 463	dystans: 2 	sciezka: 0 185 463 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 464	dystans: 2 	sciezka: 0 104 464 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 465	dystans: 2 	sciezka: 0 49 465 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 466	dystans: 2 	sciezka: 0 466 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 467	dystans: 2 	sciezka: 0 10 467 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 468	dystans: 1 	sciezka: 0 468 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 469	dystans: 2 	sciezka: 0 44 469 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 470	dystans: 2 	sciezka: 0 16 470 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 471	dystans: 2 	sciezka: 0 106 471 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 472	dystans: 2 	sciezka: 0 49 472 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 473	dystans: 2 	sciezka: 0 185 473 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 474	dystans: 2 	sciezka: 0 49 474 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 475	dystans: 2 	sciezka: 0 49 475 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 476	dystans: 1 	sciezka: 0 476 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 477	dystans: 2 	sciezka: 0 394 477 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 478	dystans: 2 	sciezka: 0 142 478 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 479	dystans: 2 	sciezka: 0 80 479 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 480	dystans: 2 	sciezka: 0 480 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 481	dystans: 2 	sciezka: 0 83 481 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 482	dystans: 2 	sciezka: 0 98 482 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 483	dystans: 2 	sciezka: 0 154 483 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 484	dystans: 2 	sciezka: 0 93 484 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 485	dystans: 2 	sciezka: 0 10 485 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 486	dystans: 2 	sciezka: 0 154 486 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 487	dystans: 2 	sciezka: 0 10 487 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 488	dystans: 2 	sciezka: 0 10 488 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 489	dystans: 2 	sciezka: 0 99 489 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 490	dystans: 1 	sciezka: 0 490 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 491	dystans: 1 	sciezka: 0 491 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 492	dystans: 2 	sciezka: 0 10 492 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 493	dystans: 2 	sciezka: 0 291 493 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 494	dystans: 2 	sciezka: 0 99 494 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 495	dystans: 2 	sciezka: 0 16 495 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 496	dystans: 2 	sciezka: 0 104 496 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 497	dystans: 2 	sciezka: 0 142 497 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 498	dystans: 1 	sciezka: 0 498 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 499	dystans: 2 	sciezka: 0 178 499 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 500	dystans: 2 	sciezka: 0 258 500 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 501	dystans: 2 	sciezka: 0 80 501 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 502	dystans: 2 	sciezka: 0 502 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 503	dystans: 2 	sciezka: 0 348 503 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 504	dystans: 2 	sciezka: 0 94 504 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 505	dystans: 2 	sciezka: 0 16 505 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 506	dystans: 2 	sciezka: 0 80 506 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 507	dystans: 2 	sciezka: 0 507 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 508	dystans: 2 	sciezka: 0 257 508 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 509	dystans: 2 	sciezka: 0 49 509 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 510	dystans: 2 	sciezka: 0 83 510 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 511	dystans: 2 	sciezka: 0 257 511 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 512	dystans: 2 	sciezka: 0 93 512 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 513	dystans: 2 	sciezka: 0 49 513 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 514	dystans: 2 	sciezka: 0 174 514 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 515	dystans: 2 	sciezka: 0 10 515 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 516	dystans: 2 	sciezka: 0 178 516 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 517	dystans: 2 	sciezka: 0 10 517 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 518	dystans: 2 	sciezka: 0 83 518 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 519	dystans: 2 	sciezka: 0 16 519 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 520	dystans: 2 	sciezka: 0 44 520 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 521	dystans: 2 	sciezka: 0 521 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 522	dystans: 2 	sciezka: 0 10 522 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 523	dystans: 2 	sciezka: 0 104 523 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 524	dystans: 2 	sciezka: 0 83 524 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 525	dystans: 2 	sciezka: 0 94 525 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 526	dystans: 1 	sciezka: 0 526 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 527	dystans: 2 	sciezka: 0 527 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 528	dystans: 2 	sciezka: 0 93 528 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 529	dystans: 1 	sciezka: 0 529 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 530	dystans: 2 	sciezka: 0 80 530 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 531	dystans: 2 	sciezka: 0 174 531 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 532	dystans: 2 	sciezka: 0 263 532 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 533	dystans: 2 	sciezka: 0 83 533 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 534	dystans: 2 	sciezka: 0 154 534 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 535	dystans: 2 	sciezka: 0 106 535 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 536	dystans: 2 	sciezka: 0 16 536 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 537	dystans: 1 	sciezka: 0 537 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 538	dystans: 2 	sciezka: 0 44 538 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 539	dystans: 2 	sciezka: 0 44 539 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 540	dystans: 2 	sciezka: 0 93 540 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 541	dystans: 2 	sciezka: 0 257 541 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 542	dystans: 2 	sciezka: 0 154 542 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 543	dystans: 2 	sciezka: 0 93 543 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 544	dystans: 2 	sciezka: 0 394 544 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 545	dystans: 2 	sciezka: 0 151 545 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 546	dystans: 2 	sciezka: 0 93 546 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 547	dystans: 2 	sciezka: 0 10 547 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 548	dystans: 2 	sciezka: 0 49 548 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 549	dystans: 1 	sciezka: 0 549 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 550	dystans: 2 	sciezka: 0 83 550 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 551	dystans: 2 	sciezka: 0 142 551 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 552	dystans: 2 	sciezka: 0 10 552 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 553	dystans: 2 	sciezka: 0 94 553 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 554	dystans: 2 	sciezka: 0 99 554 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 555	dystans: 2 	sciezka: 0 49 555 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 556	dystans: 2 	sciezka: 0 236 556 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 557	dystans: 2 	sciezka: 0 154 557 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 558	dystans: 2 	sciezka: 0 174 558 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 559	dystans: 2 	sciezka: 0 10 559 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 560	dystans: 2 	sciezka: 0 174 560 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 561	dystans: 2 	sciezka: 0 16 561 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 562	dystans: 2 	sciezka: 0 209 562 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 563	dystans: 2 	sciezka: 0 10 563 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 564	dystans: 1 	sciezka: 0 564 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 565	dystans: 2 	sciezka: 0 80 565 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 566	dystans: 2 	sciezka: 0 566 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 567	dystans: 2 	sciezka: 0 567 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 568	dystans: 2 	sciezka: 0 174 568 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 569	dystans: 2 	sciezka: 0 16 569 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 570	dystans: 2 	sciezka: 0 16 570 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 571	dystans: 2 	sciezka: 0 174 571 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 572	dystans: 2 	sciezka: 0 151 572 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 573	dystans: 2 	sciezka: 0 236 573 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 574	dystans: 2 	sciezka: 0 83 574 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 575	dystans: 2 	sciezka: 0 575 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 576	dystans: 2 	sciezka: 0 576 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 577	dystans: 2 	sciezka: 0 263 577 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 578	dystans: 2 	sciezka: 0 104 578 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 579	dystans: 1 	sciezka: 0 579 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 580	dystans: 2 	sciezka: 0 580 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 581	dystans: 1 	sciezka: 0 581 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 582	dystans: 2 	sciezka: 0 154 582 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 583	dystans: 2 	sciezka: 0 16 583 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 584	dystans: 2 	sciezka: 0 16 584 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 585	dystans: 2 	sciezka: 0 178 585 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 586	dystans: 2 	sciezka: 0 131 586 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 587	dystans: 2 	sciezka: 0 44 587 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 588	dystans: 2 	sciezka: 0 71 588 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 589	dystans: 1 	sciezka: 0 589 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 590	dystans: 2 	sciezka: 0 185 590 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 591	dystans: 2 	sciezka: 0 44 591 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 592	dystans: 2 	sciezka: 0 71 592 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 593	dystans: 2 	sciezka: 0 460 593 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 594	dystans: 2 	sciezka: 0 104 594 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 595	dystans: 2 	sciezka: 0 549 595 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 596	dystans: 2 	sciezka: 0 104 596 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 597	dystans: 1 	sciezka: 0 597 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 598	dystans: 2 	sciezka: 0 49 598 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 599	dystans: 2 	sciezka: 0 83 599 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 600	dystans: 2 	sciezka: 0 71 600 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 601	dystans: 2 	sciezka: 0 16 601 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 602	dystans: 2 	sciezka: 0 83 602 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 603	dystans: 2 	sciezka: 0 603 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 604	dystans: 2 	sciezka: 0 83 604 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 605	dystans: 2 	sciezka: 0 605 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 606	dystans: 2 	sciezka: 0 44 606 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 607	dystans: 2 	sciezka: 0 16 607 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 608	dystans: 2 	sciezka: 0 10 608 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 609	dystans: 2 	sciezka: 0 131 609 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 610	dystans: 2 	sciezka: 0 142 610 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 611	dystans: 2 	sciezka: 0 98 611 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 612	dystans: 2 	sciezka: 0 151 612 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 613	dystans: 2 	sciezka: 0 142 613 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 614	dystans: 2 	sciezka: 0 614 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 615	dystans: 2 	sciezka: 0 44 615 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 616	dystans: 2 	sciezka: 0 616 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 617	dystans: 2 	sciezka: 0 16 617 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 618	dystans: 2 	sciezka: 0 93 618 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 619	dystans: 1 	sciezka: 0 619 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 620	dystans: 2 	sciezka: 0 49 620 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 621	dystans: 1 	sciezka: 0 621 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 622	dystans: 2 	sciezka: 0 83 622 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 623	dystans: 2 	sciezka: 0 623 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 624	dystans: 2 	sciezka: 0 624 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 625	dystans: 2 	sciezka: 0 49 625 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 626	dystans: 2 	sciezka: 0 83 626 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 627	dystans: 2 	sciezka: 0 71 627 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 628	dystans: 1 	sciezka: 0 628 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 629	dystans: 2 	sciezka: 0 99 629 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 630	dystans: 2 	sciezka: 0 131 630 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 631	dystans: 2 	sciezka: 0 106 631 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 632	dystans: 2 	sciezka: 0 10 632 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 633	dystans: 1 	sciezka: 0 633 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 634	dystans: 2 	sciezka: 0 16 634 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 635	dystans: 2 	sciezka: 0 93 635 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 636	dystans: 1 	sciezka: 0 636 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 637	dystans: 2 	sciezka: 0 637 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 638	dystans: 2 	sciezka: 0 44 638 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 639	dystans: 1 	sciezka: 0 639 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 640	dystans: 2 	sciezka: 0 640 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 641	dystans: 2 	sciezka: 0 16 641 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 642	dystans: 2 	sciezka: 0 16 642 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 643	dystans: 2 	sciezka: 0 209 643 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 644	dystans: 1 	sciezka: 0 644 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 645	dystans: 2 	sciezka: 0 80 645 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 646	dystans: 2 	sciezka: 0 93 646 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 647	dystans: 2 	sciezka: 0 99 647 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 648	dystans: 2 	sciezka: 0 10 648 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 649	dystans: 2 	sciezka: 0 649 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 650	dystans: 2 	sciezka: 0 71 650 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 651	dystans: 2 	sciezka: 0 16 651 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 652	dystans: 2 	sciezka: 0 71 652 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 653	dystans: 2 	sciezka: 0 263 653 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 654	dystans: 2 	sciezka: 0 98 654 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 655	dystans: 2 	sciezka: 0 16 655 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 656	dystans: 2 	sciezka: 0 104 656 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 657	dystans: 2 	sciezka: 0 83 657 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 658	dystans: 2 	sciezka: 0 80 658 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 659	dystans: 2 	sciezka: 0 93 659 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 660	dystans: 2 	sciezka: 0 178 660 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 661	dystans: 2 	sciezka: 0 151 661 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 662	dystans: 2 	sciezka: 0 10 662 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 663	dystans: 2 	sciezka: 0 663 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 664	dystans: 2 	sciezka: 0 99 664 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 665	dystans: 2 	sciezka: 0 99 665 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 666	dystans: 2 	sciezka: 0 49 666 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 667	dystans: 2 	sciezka: 0 667 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 668	dystans: 2 	sciezka: 0 10 668 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 669	dystans: 2 	sciezka: 0 49 669 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 670	dystans: 2 	sciezka: 0 377 670 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 671	dystans: 2 	sciezka: 0 151 671 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 672	dystans: 2 	sciezka: 0 71 672 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 673	dystans: 2 	sciezka: 0 80 673 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 674	dystans: 2 	sciezka: 0 257 674 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 675	dystans: 2 	sciezka: 0 106 675 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 676	dystans: 2 	sciezka: 0 10 676 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 677	dystans: 1 	sciezka: 0 677 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 678	dystans: 1 	sciezka: 0 678 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 679	dystans: 2 	sciezka: 0 99 679 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 680	dystans: 2 	sciezka: 0 71 680 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 681	dystans: 2 	sciezka: 0 681 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 682	dystans: 1 	sciezka: 0 682 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 683	dystans: 2 	sciezka: 0 44 683 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 684	dystans: 2 	sciezka: 0 151 684 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 685	dystans: 2 	sciezka: 0 93 685 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 686	dystans: 2 	sciezka: 0 94 686 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 687	dystans: 2 	sciezka: 0 80 687 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 688	dystans: 2 	sciezka: 0 688 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 689	dystans: 2 	sciezka: 0 16 689 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 690	dystans: 1 	sciezka: 0 690 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 691	dystans: 2 	sciezka: 0 44 691 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 692	dystans: 2 	sciezka: 0 80 692 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 693	dystans: 2 	sciezka: 0 44 693 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 694	dystans: 2 	sciezka: 0 10 694 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 695	dystans: 2 	sciezka: 0 16 695 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 696	dystans: 2 	sciezka: 0 49 696 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 697	dystans: 2 	sciezka: 0 106 697 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 698	dystans: 2 	sciezka: 0 10 698 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 699	dystans: 2 	sciezka: 0 93 699 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 700	dystans: 2 	sciezka: 0 104 700 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 701	dystans: 2 	sciezka: 0 106 701 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 702	dystans: 2 	sciezka: 0 16 702 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 703	dystans: 1 	sciezka: 0 703 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 704	dystans: 2 	sciezka: 0 71 704 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 705	dystans: 2 	sciezka: 0 705 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 706	dystans: 2 	sciezka: 0 257 706 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 707	dystans: 2 	sciezka: 0 142 707 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 708	dystans: 2 	sciezka: 0 93 708 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 709	dystans: 2 	sciezka: 0 106 709 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 710	dystans: 2 	sciezka: 0 710 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 711	dystans: 2 	sciezka: 0 151 711 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 712	dystans: 2 	sciezka: 0 10 712 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 713	dystans: 2 	sciezka: 0 44 713 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 714	dystans: 2 	sciezka: 0 10 714 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 715	dystans: 2 	sciezka: 0 44 715 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 716	dystans: 2 	sciezka: 0 716 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 717	dystans: 2 	sciezka: 0 98 717 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 718	dystans: 2 	sciezka: 0 49 718 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 719	dystans: 1 	sciezka: 0 719 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 720	dystans: 2 	sciezka: 0 93 720 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 721	dystans: 2 	sciezka: 0 93 721 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 722	dystans: 2 	sciezka: 0 94 722 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 723	dystans: 2 	sciezka: 0 400 723 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 724	dystans: 2 	sciezka: 0 106 724 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 725	dystans: 2 	sciezka: 0 257 725 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 726	dystans: 2 	sciezka: 0 93 726 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 727	dystans: 2 	sciezka: 0 727 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 728	dystans: 1 	sciezka: 0 728 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 729	dystans: 1 	sciezka: 0 729 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 730	dystans: 2 	sciezka: 0 49 730 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 731	dystans: 2 	sciezka: 0 83 731 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 732	dystans: 2 	sciezka: 0 80 732 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 733	dystans: 2 	sciezka: 0 94 733 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 734	dystans: 2 	sciezka: 0 99 734 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 735	dystans: 2 	sciezka: 0 98 735 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 736	dystans: 2 	sciezka: 0 93 736 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 737	dystans: 2 	sciezka: 0 99 737 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 738	dystans: 2 	sciezka: 0 346 738 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 739	dystans: 2 	sciezka: 0 292 739 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 740	dystans: 2 	sciezka: 0 104 740 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 741	dystans: 2 	sciezka: 0 142 741 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 742	dystans: 2 	sciezka: 0 106 742 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 743	dystans: 2 	sciezka: 0 104 743 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 744	dystans: 1 	sciezka: 0 744 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 745	dystans: 2 	sciezka: 0 745 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 746	dystans: 2 	sciezka: 0 49 746 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 747	dystans: 2 	sciezka: 0 44 747 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 748	dystans: 2 	sciezka: 0 71 748 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 749	dystans: 2 	sciezka: 0 49 749 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 750	dystans: 2 	sciezka: 0 83 750 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 751	dystans: 2 	sciezka: 0 10 751 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 752	dystans: 1 	sciezka: 0 752 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 753	dystans: 2 	sciezka: 0 104 753 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 754	dystans: 2 	sciezka: 0 94 754 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 755	dystans: 2 	sciezka: 0 755 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 756	dystans: 2 	sciezka: 0 287 756 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 757	dystans: 2 	sciezka: 0 142 757 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 758	dystans: 2 	sciezka: 0 758 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 759	dystans: 2 	sciezka: 0 16 759 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 760	dystans: 2 	sciezka: 0 10 760 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 761	dystans: 2 	sciezka: 0 94 761 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 762	dystans: 2 	sciezka: 0 10 762 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 763	dystans: 2 	sciezka: 0 763 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 764	dystans: 2 	sciezka: 0 764 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 765	dystans: 2 	sciezka: 0 209 765 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 766	dystans: 1 	sciezka: 0 766 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 767	dystans: 2 	sciezka: 0 99 767 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 768	dystans: 2 	sciezka: 0 93 768 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 769	dystans: 2 	sciezka: 0 44 769 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 770	dystans: 2 	sciezka: 0 16 770 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 771	dystans: 2 	sciezka: 0 258 771 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 772	dystans: 2 	sciezka: 0 93 772 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 773	dystans: 2 	sciezka: 0 80 773 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 774	dystans: 2 	sciezka: 0 357 774 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 775	dystans: 2 	sciezka: 0 151 775 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 776	dystans: 1 	sciezka: 0 776 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 777	dystans: 2 	sciezka: 0 99 777 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 778	dystans: 1 	sciezka: 0 778 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 779	dystans: 2 	sciezka: 0 779 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 780	dystans: 2 	sciezka: 0 16 780 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 781	dystans: 2 	sciezka: 0 16 781 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 782	dystans: 2 	sciezka: 0 71 782 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 783	dystans: 2 	sciezka: 0 10 783 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 784	dystans: 2 	sciezka: 0 287 784 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 785	dystans: 1 	sciezka: 0 785 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 786	dystans: 2 	sciezka: 0 44 786 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 787	dystans: 2 	sciezka: 0 333 787 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 788	dystans: 2 	sciezka: 0 788 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 789	dystans: 2 	sciezka: 0 142 789 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 790	dystans: 2 	sciezka: 0 10 790 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 791	dystans: 2 	sciezka: 0 16 791 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 792	dystans: 2 	sciezka: 0 131 792 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 793	dystans: 2 	sciezka: 0 80 793 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 794	dystans: 2 	sciezka: 0 44 794 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 795	dystans: 1 	sciezka: 0 795 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 796	dystans: 2 	sciezka: 0 93 796 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 797	dystans: 2 	sciezka: 0 797 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 798	dystans: 2 	sciezka: 0 80 798 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 799	dystans: 2 	sciezka: 0 185 799 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 800	dystans: 2 	sciezka: 0 178 800 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 801	dystans: 2 	sciezka: 0 106 801 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 802	dystans: 2 	sciezka: 0 49 802 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 803	dystans: 2 	sciezka: 0 174 803 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 804	dystans: 1 	sciezka: 0 804 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 805	dystans: 2 	sciezka: 0 83 805 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 806	dystans: 1 	sciezka: 0 806 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 807	dystans: 2 	sciezka: 0 154 807 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 808	dystans: 2 	sciezka: 0 178 808 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 809	dystans: 2 	sciezka: 0 10 809 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 810	dystans: 1 	sciezka: 0 810 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 811	dystans: 2 	sciezka: 0 83 811 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 812	dystans: 2 	sciezka: 0 131 812 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 813	dystans: 2 	sciezka: 0 93 813 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 814	dystans: 2 	sciezka: 0 248 814 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 815	dystans: 2 	sciezka: 0 44 815 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 816	dystans: 1 	sciezka: 0 816 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 817	dystans: 1 	sciezka: 0 817 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 818	dystans: 2 	sciezka: 0 131 818 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 819	dystans: 1 	sciezka: 0 819 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 820	dystans: 2 	sciezka: 0 142 820 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 821	dystans: 2 	sciezka: 0 94 821 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 822	dystans: 2 	sciezka: 0 185 822 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 823	dystans: 2 	sciezka: 0 71 823 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 824	dystans: 2 	sciezka: 0 16 824 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 825	dystans: 2 	sciezka: 0 825 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 826	dystans: 2 	sciezka: 0 131 826 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 827	dystans: 1 	sciezka: 0 827 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 828	dystans: 2 	sciezka: 0 828 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 829	dystans: 2 	sciezka: 0 106 829 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 830	dystans: 1 	sciezka: 0 830 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 831	dystans: 2 	sciezka: 0 44 831 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 832	dystans: 2 	sciezka: 0 248 832 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 833	dystans: 2 	sciezka: 0 71 833 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 834	dystans: 2 	sciezka: 0 71 834 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 835	dystans: 2 	sciezka: 0 258 835 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 836	dystans: 2 	sciezka: 0 10 836 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 837	dystans: 2 	sciezka: 0 292 837 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 838	dystans: 2 	sciezka: 0 83 838 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 839	dystans: 2 	sciezka: 0 10 839 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 840	dystans: 2 	sciezka: 0 49 840 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 841	dystans: 2 	sciezka: 0 93 841 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 842	dystans: 1 	sciezka: 0 842 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 843	dystans: 2 	sciezka: 0 99 843 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 844	dystans: 2 	sciezka: 0 10 844 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 845	dystans: 2 	sciezka: 0 10 845 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 846	dystans: 2 	sciezka: 0 83 846 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 847	dystans: 2 	sciezka: 0 10 847 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 848	dystans: 2 	sciezka: 0 71 848 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 849	dystans: 2 	sciezka: 0 400 849 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 850	dystans: 2 	sciezka: 0 16 850 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 851	dystans: 2 	sciezka: 0 49 851 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 852	dystans: 2 	sciezka: 0 491 852 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 853	dystans: 1 	sciezka: 0 853 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 854	dystans: 2 	sciezka: 0 854 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 855	dystans: 2 	sciezka: 0 855 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 856	dystans: 1 	sciezka: 0 856 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 857	dystans: 2 	sciezka: 0 857 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 858	dystans: 2 	sciezka: 0 104 858 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 859	dystans: 2 	sciezka: 0 49 859 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 860	dystans: 2 	sciezka: 0 49 860 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 861	dystans: 2 	sciezka: 0 16 861 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 862	dystans: 2 	sciezka: 0 99 862 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 863	dystans: 2 	sciezka: 0 98 863 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 864	dystans: 2 	sciezka: 0 104 864 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 865	dystans: 2 	sciezka: 0 865 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 866	dystans: 2 	sciezka: 0 49 866 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 867	dystans: 2 	sciezka: 0 867 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 868	dystans: 2 	sciezka: 0 348 868 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 869	dystans: 2 	sciezka: 0 104 869 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 870	dystans: 2 	sciezka: 0 10 870 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 871	dystans: 1 	sciezka: 0 871 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 872	dystans: 2 	sciezka: 0 99 872 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 873	dystans: 2 	sciezka: 0 291 873 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 874	dystans: 2 	sciezka: 0 236 874 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 875	dystans: 2 	sciezka: 0 875 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 876	dystans: 2 	sciezka: 0 93 876 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 877	dystans: 2 	sciezka: 0 104 877 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 878	dystans: 2 	sciezka: 0 292 878 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 879	dystans: 2 	sciezka: 0 80 879 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 880	dystans: 2 	sciezka: 0 236 880 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 881	dystans: 2 	sciezka: 0 98 881 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 882	dystans: 1 	sciezka: 0 882 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 883	dystans: 2 	sciezka: 0 154 883 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 884	dystans: 2 	sciezka: 0 98 884 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 885	dystans: 2 	sciezka: 0 94 885 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 886	dystans: 2 	sciezka: 0 94 886 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 887	dystans: 2 	sciezka: 0 99 887 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 888	dystans: 2 	sciezka: 0 98 888 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 889	dystans: 1 	sciezka: 0 889 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 890	dystans: 2 	sciezka: 0 10 890 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 891	dystans: 2 	sciezka: 0 49 891 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 892	dystans: 2 	sciezka: 0 49 892 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 893	dystans: 2 	sciezka: 0 94 893 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 894	dystans: 2 	sciezka: 0 10 894 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 895	dystans: 2 	sciezka: 0 71 895 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 896	dystans: 2 	sciezka: 0 185 896 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 897	dystans: 2 	sciezka: 0 83 897 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 898	dystans: 2 	sciezka: 0 44 898 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 899	dystans: 2 	sciezka: 0 104 899 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 900	dystans: 2 	sciezka: 0 94 900 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 901	dystans: 2 	sciezka: 0 93 901 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 902	dystans: 2 	sciezka: 0 49 902 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 903	dystans: 2 	sciezka: 0 16 903 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 904	dystans: 2 	sciezka: 0 16 904 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 905	dystans: 2 	sciezka: 0 10 905 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 906	dystans: 2 	sciezka: 0 10 906 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 907	dystans: 2 	sciezka: 0 16 907 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 908	dystans: 2 	sciezka: 0 71 908 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 909	dystans: 2 	sciezka: 0 909 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 910	dystans: 2 	sciezka: 0 291 910 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 911	dystans: 2 	sciezka: 0 98 911 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 912	dystans: 2 	sciezka: 0 16 912 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 913	dystans: 2 	sciezka: 0 99 913 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 914	dystans: 2 	sciezka: 0 71 914 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 915	dystans: 2 	sciezka: 0 71 915 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 916	dystans: 2 	sciezka: 0 71 916 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 917	dystans: 2 	sciezka: 0 10 917 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 918	dystans: 2 	sciezka: 0 131 918 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 919	dystans: 2 	sciezka: 0 236 919 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 920	dystans: 2 	sciezka: 0 93 920 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 921	dystans: 2 	sciezka: 0 131 921 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 922	dystans: 2 	sciezka: 0 16 922 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 923	dystans: 2 	sciezka: 0 10 923 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 924	dystans: 2 	sciezka: 0 93 924 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 925	dystans: 2 	sciezka: 0 44 925 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 926	dystans: 2 	sciezka: 0 257 926 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 927	dystans: 2 	sciezka: 0 44 927 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 928	dystans: 2 	sciezka: 0 151 928 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 929	dystans: 1 	sciezka: 0 929 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 930	dystans: 2 	sciezka: 0 16 930 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 931	dystans: 2 	sciezka: 0 44 931 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 932	dystans: 1 	sciezka: 0 932 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 933	dystans: 2 	sciezka: 0 71 933 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 934	dystans: 2 	sciezka: 0 93 934 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 935	dystans: 1 	sciezka: 0 935 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 936	dystans: 2 	sciezka: 0 292 936 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 937	dystans: 2 	sciezka: 0 99 937 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 938	dystans: 2 	sciezka: 0 10 938 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 939	dystans: 2 	sciezka: 0 80 939 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 940	dystans: 2 	sciezka: 0 104 940 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 941	dystans: 2 	sciezka: 0 257 941 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 942	dystans: 1 	sciezka: 0 942 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 943	dystans: 1 	sciezka: 0 943 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 944	dystans: 2 	sciezka: 0 44 944 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 945	dystans: 2 	sciezka: 0 945 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 946	dystans: 2 	sciezka: 0 10 946 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 947	dystans: 2 	sciezka: 0 16 947 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 948	dystans: 1 	sciezka: 0 948 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 949	dystans: 2 	sciezka: 0 10 949 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 950	dystans: 2 	sciezka: 0 950 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 951	dystans: 2 	sciezka: 0 49 951 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 952	dystans: 2 	sciezka: 0 185 952 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 953	dystans: 2 	sciezka: 0 49 953 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 954	dystans: 2 	sciezka: 0 99 954 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 955	dystans: 2 	sciezka: 0 287 955 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 956	dystans: 2 	sciezka: 0 956 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 957	dystans: 2 	sciezka: 0 44 957 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 958	dystans: 2 	sciezka: 0 94 958 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 959	dystans: 2 	sciezka: 0 49 959 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 960	dystans: 2 	sciezka: 0 960 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 961	dystans: 2 	sciezka: 0 174 961 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 962	dystans: 2 	sciezka: 0 98 962 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 963	dystans: 2 	sciezka: 0 99 963 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 964	dystans: 2 	sciezka: 0 10 964 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 965	dystans: 2 	sciezka: 0 93 965 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 966	dystans: 2 	sciezka: 0 263 966 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 967	dystans: 2 	sciezka: 0 967 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 968	dystans: 2 	sciezka: 0 968 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 969	dystans: 2 	sciezka: 0 969 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 970	dystans: 1 	sciezka: 0 970 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 971	dystans: 2 	sciezka: 0 106 971 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 972	dystans: 2 	sciezka: 0 131 972 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 973	dystans: 2 	sciezka: 0 83 973 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 974	dystans: 2 	sciezka: 0 16 974 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 975	dystans: 2 	sciezka: 0 16 975 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 976	dystans: 2 	sciezka: 0 348 976 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 977	dystans: 2 	sciezka: 0 977 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 978	dystans: 1 	sciezka: 0 978 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 979	dystans: 2 	sciezka: 0 10 979 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 980	dystans: 2 	sciezka: 0 980 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 981	dystans: 2 	sciezka: 0 94 981 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 982	dystans: 2 	sciezka: 0 49 982 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 983	dystans: 2 	sciezka: 0 983 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 984	dystans: 2 	sciezka: 0 151 984 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 985	dystans: 2 	sciezka: 0 10 985 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 986	dystans: 2 	sciezka: 0 98 986 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 987	dystans: 2 	sciezka: 0 104 987 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 988	dystans: 2 	sciezka: 0 80 988 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 989	dystans: 2 	sciezka: 0 16 989 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 990	dystans: 2 	sciezka: 0 94 990 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 991	dystans: 2 	sciezka: 0 151 991 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 992	dystans: 2 	sciezka: 0 151 992 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 993	dystans: 2 	sciezka: 0 10 993 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 994	dystans: 2 	sciezka: 0 44 994 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 995	dystans: 2 	sciezka: 0 94 995 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 996	dystans: 1 	sciezka: 0 996 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 997	dystans: 2 	sciezka: 0 16 997 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 998	dystans: 2 	sciezka: 0 93 998 
+wierzcholek poczatkowy: 0	wierzcholek koncowy: 999	dystans: 2 	sciezka: 0 93 999 
